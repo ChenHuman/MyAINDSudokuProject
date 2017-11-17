@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Artificial Intelligence Nanodegree
 ## Introductory Project: Diagonal Sudoku Solver
 
@@ -52,3 +53,6 @@ To submit your code to the project assistant, run `udacity submit` from within t
 
 This process will create a zipfile in your top-level directory named sudoku-<id>.zip.  This is the file that you should submit to the Udacity reviews system.
 
+=======
+# MyAINDSudokuProject
+>>>>>>> fb52346d5dae2266b8d6ee1960929832de6bca33
